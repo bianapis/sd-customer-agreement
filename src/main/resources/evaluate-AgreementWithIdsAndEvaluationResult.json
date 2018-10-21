@@ -1,0 +1,18 @@
+{
+  "agreementType" : "T2",
+  "agreementJurisdiction" : "8064",
+  "legalEntityReference" : "64865",
+  "agreementSignaturiesResponsibleParties" : "6",
+  "partyLifecycleManagementReference" : "3568",
+  "customerAgreementRecord" : 2357,
+  "customerReference" : "47654676",
+  "agreementValidFromToDate" : {
+    "fromDate" : "09-01-2018 07:30:00 EST",
+    "toDate" : "09-02-2018 19:30:00 EST"
+  },
+  "documentReference" : "23478",
+  "salesProductAgreementReference" : "0964",
+  "agreementEvaluationResult" : "agreementEvaluationResult",
+  "customerAgreementReference" : "76439839",
+  "customerPrecedentsReference" : "0874"
+}
